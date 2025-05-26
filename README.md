@@ -35,11 +35,13 @@ This is a **responsive landing page** built using **HTML** and **CSS**, designed
 
 Inspired by this design concept:  
 [Landing Page Template on Vecteezy](https://static.vecteezy.com/system/resources/previews/002/038/765/original/landing-page-template-of-social-media-marketing-modern-flat-design-concept-of-web-page-design-vector.jpg)
+Images and Logos are taken from : 
+[flatIcon](https://www.flaticon.com/)
 
 ---
 
 ## 📁 Folder Structure
-/images - Contains logo and social media icons
-/style.css - All styles for layout and responsiveness
-/index.html - Main HTML fil
+- /images - Contains logo and social media icons
+- /style.css - All styles for layout and responsiveness
+- /index.html - Main HTML fil
 
