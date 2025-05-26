@@ -45,3 +45,9 @@ This is a **responsive landing page** built using **HTML** and **CSS**, designed
 - /style.css - All styles for layout and responsiveness
 - /index.html - Main HTML file
 
+---
+
+## 🔗 Live Demo
+
+Check out the live demo here:  
+👉 [Landing Page](https://archiep27.github.io/Landing-Page---Sample/)
